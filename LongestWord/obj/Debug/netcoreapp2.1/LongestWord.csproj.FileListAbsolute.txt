@@ -1,0 +1,13 @@
+C:\Users\MLDC\Downloads\Tasks\LongestWord\bin\Debug\netcoreapp2.1\LongestWord.deps.json
+C:\Users\MLDC\Downloads\Tasks\LongestWord\bin\Debug\netcoreapp2.1\LongestWord.runtimeconfig.json
+C:\Users\MLDC\Downloads\Tasks\LongestWord\bin\Debug\netcoreapp2.1\LongestWord.runtimeconfig.dev.json
+C:\Users\MLDC\Downloads\Tasks\LongestWord\bin\Debug\netcoreapp2.1\LongestWord.dll
+C:\Users\MLDC\Downloads\Tasks\LongestWord\bin\Debug\netcoreapp2.1\LongestWord.pdb
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.csproj.AssemblyReference.cache
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.AssemblyInfoInputs.cache
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.AssemblyInfo.cs
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.dll
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.pdb
+C:\Users\MLDC\Downloads\Tasks\LongestWord\obj\Debug\netcoreapp2.1\LongestWord.genruntimeconfig.cache

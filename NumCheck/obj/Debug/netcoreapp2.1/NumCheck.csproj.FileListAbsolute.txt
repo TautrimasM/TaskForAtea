@@ -1,0 +1,13 @@
+C:\Users\MLDC\Downloads\Tasks\NumCheck\bin\Debug\netcoreapp2.1\NumCheck.deps.json
+C:\Users\MLDC\Downloads\Tasks\NumCheck\bin\Debug\netcoreapp2.1\NumCheck.runtimeconfig.json
+C:\Users\MLDC\Downloads\Tasks\NumCheck\bin\Debug\netcoreapp2.1\NumCheck.runtimeconfig.dev.json
+C:\Users\MLDC\Downloads\Tasks\NumCheck\bin\Debug\netcoreapp2.1\NumCheck.dll
+C:\Users\MLDC\Downloads\Tasks\NumCheck\bin\Debug\netcoreapp2.1\NumCheck.pdb
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.csproj.AssemblyReference.cache
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.AssemblyInfoInputs.cache
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.AssemblyInfo.cs
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.csproj.CoreCompileInputs.cache
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.dll
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.pdb
+C:\Users\MLDC\Downloads\Tasks\NumCheck\obj\Debug\netcoreapp2.1\NumCheck.genruntimeconfig.cache

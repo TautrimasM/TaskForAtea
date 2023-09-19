@@ -1,0 +1,13 @@
+SET @NorimoAsmensID = 1;
+
+WITH RastaAsmenys AS (
+  SELECT P.`AsmensID`
+  FROM `Pilieciai` AS P
+  WHERE P.`TevoID` = @NorimoAsmensID
+     OR P.`MamosID` = @NorimoAsmensID
+)
+
+SELECT *
+FROM `Pilieciai` AS P2
+WHERE P2.`TevoID` IN (SELECT `AsmensID` FROM RastaAsmenys)
+   OR P2.`MamosID` IN (SELECT `AsmensID` FROM RastaAsmenys);

@@ -1,0 +1,5 @@
+SELECT P.*
+FROM `Pilieciai` AS P
+LEFT JOIN `Santuokos` AS S ON (P.`TevoID` = S.`VyroID` AND P.`MamosID` = S.`ZmonosID`)
+WHERE S.`SantuokosID` IS NULL
+AND DATEDIFF(CURRENT_DATE, `GimimoData`) / 365.25 < 18;

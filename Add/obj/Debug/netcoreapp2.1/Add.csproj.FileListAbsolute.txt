@@ -1,0 +1,13 @@
+C:\Users\MLDC\Downloads\Tasks\Add\bin\Debug\netcoreapp2.1\Add.deps.json
+C:\Users\MLDC\Downloads\Tasks\Add\bin\Debug\netcoreapp2.1\Add.runtimeconfig.json
+C:\Users\MLDC\Downloads\Tasks\Add\bin\Debug\netcoreapp2.1\Add.runtimeconfig.dev.json
+C:\Users\MLDC\Downloads\Tasks\Add\bin\Debug\netcoreapp2.1\Add.dll
+C:\Users\MLDC\Downloads\Tasks\Add\bin\Debug\netcoreapp2.1\Add.pdb
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.csproj.AssemblyReference.cache
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.AssemblyInfoInputs.cache
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.AssemblyInfo.cs
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.csproj.CoreCompileInputs.cache
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.dll
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.pdb
+C:\Users\MLDC\Downloads\Tasks\Add\obj\Debug\netcoreapp2.1\Add.genruntimeconfig.cache
